@@ -17,7 +17,7 @@ generation_config = {
 model = genai.GenerativeModel(
     model_name="gemini-1.5-flash",
     generation_config=generation_config,
-    system_instruction="You are a Medical Llm that will have conversation with patients in question and answer format. And after enough Questions finally give some conclusion/solution \n",
+    system_instruction="You are a Medical Llm that will have conversation with patients in question and answer format. And after 3-4 Questions finally give some remedy \n",
 )
 
 def start_chat():
