@@ -25,7 +25,7 @@ Configuration
 
 Usage
 1. Run the Streamlit app:
-streamlit run main.py
+streamlit run TeleHealthChat.py
 
 2. Open your web browser and navigate to http://localhost:8501.
 
@@ -34,7 +34,7 @@ streamlit run main.py
 - Type 'exit' to end the chat.
 
 Files
-- main.py: Main application script that initializes the Streamlit app and integrates with Google Generative AI for chat functionality.
+- TeleHealthChat.py: Main application script that initializes the Streamlit app and integrates with Google Generative AI for chat functionality.
 - requirements.txt: List of Python dependencies required for the application.
 
 Notes
