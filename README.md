@@ -13,9 +13,10 @@ Prerequisites
 Installation
 1. Clone this repository:
 git clone https://github.com/ninad2612/Tele-Health-Chat.git](https://github.com/ninad2612/Tele-Health-Chat.git
+
 cd repository
 
-2. Install dependencies:
+3. Install dependencies:
 pip install -r requirements.txt
 
 Configuration
